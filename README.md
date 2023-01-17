@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm ScharxiDev. 💻</h1>
+<h1 align="center">Hey, I'm BufferOverflw. 💻</h1>
 <h3 align="center">A hobby-developer</h3>
 
 <p align="center">
-    『 17y/o 』
+    『 18y/o 』
     『 he/him 』
 </p>
     
