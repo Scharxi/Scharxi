@@ -2,7 +2,7 @@
 <h3 align="center">A hobby-developer</h3>
 
 <p align="center">
-    『 19y/o 』
+    『 20y/o 』
     『 he/him 』
 </p>
     
